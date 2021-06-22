@@ -1,5 +1,5 @@
 import requests
-import os
+#import os
 from datetime import datetime
 api_key = '87d845b0b6cf29baa1a73cc34b067a95'
 location = input("Enter the city name: ")
